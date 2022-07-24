@@ -1,0 +1,13 @@
+--CREATE TABLE Products(
+--	ID INT IDENTITY(1,1) PRIMARY KEY,
+--	Name NVARCHAR(255),
+--	Description NVARCHAR(255),
+--	Price FLOAT,
+--	Category NVARCHAR(30)
+--);
+
+--INSERT INTO Products(Name, Description, Price, Category)
+--VALUES('Black Coffee', 'The freshest hot bean water!', 1.99, 'Hot'),
+--('Latte', 'Delicious, foamy, flavor as tasteful as the art on top', 3.99, 'Hot'),
+--('Iced Coffee', 'Step aside hot coffee, we got electricity to talk to', 2.99, 'Iced'),
+--('Coffee Slushi', 'Iced coffee has an edgy cousin, with more sugar', 4.99, 'Frozen');
